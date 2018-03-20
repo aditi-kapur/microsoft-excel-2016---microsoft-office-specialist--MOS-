@@ -192,7 +192,7 @@
         "description": "By the completion of this simulation based course for Microsoft Excel 2016, you will be comfortable with many of the advanced features and functions that this powerful spreadsheet software from Microsoft has to offer.",
         "thumbnailsmall": "cover.png",
         "title": "Microsoft Excel 2016 – Microsoft Office Specialist (MOS)",
-        "code": "microsoftexcel2016–microsoftofficespecialist(MOS)",
+        "code": "microsoftexcel2016microsoftofficespecialistMOS",
         "producttype": "courseware",
         "model": {
             "type": "ittoolscourse",
