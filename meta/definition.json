@@ -192,14 +192,15 @@
         "description": "This comprehensive  Microsoft PowerPoint 2016 training course will teach you how to design and customize professional presentations using the world's most popular powerpoint application.",
         "thumbnailsmall": "cover.png",
         "title": "Exploring Microsoft PowerPoint 2016 Comprehensive",
-        "code": "HASGS0294X",
+        "code": "microsoftexcel2016microsoftofficespecialistMOS",
         "producttype": "courseware",
         "model": {
             "type": "ittoolscourse",
             "textbookISBN": "9852147847",
             "textbook": "Exploring Microsoft PowerPoint 2016 Comprehensive",
             "series": "Exploring",
-            "application": "Powerpoint"
+            "application": "Powerpoint",
+            "courseId": "HASGS0294X"
         }
     },
     "resources": {
